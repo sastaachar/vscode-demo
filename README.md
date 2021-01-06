@@ -1,6 +1,6 @@
 # Attack Demo
 
-Thes extension in this repo is just a demo to check the vscode's access to user meadia devices.
+The extension in this repo is just a demo to check the vscode's access to user meadia devices.
 
 Extensions can gain access to user's media through the mediaDevice api.
 
