@@ -2,7 +2,7 @@
 
 The extension in this repo is just a demo to check the vscode's access to user meadia devices.
 
-Extensions can gain access to user's media through the mediaDevice api.
+Extensions can gain access to user's media through the mediaDevice api from an extension's webview.
 
 To run this extension on your local machine :
 
